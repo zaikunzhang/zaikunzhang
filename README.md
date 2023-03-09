@@ -1,4 +1,4 @@
-I am Zaikun ZHANG, a Chinese applied mathematician working on optimization.
+I am ZHANG Zaikun, a Chinese applied mathematician working on optimization.
 
 [![Zaikun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaikunzhang&show_icons=true)](https://github.com/anuraghazra/github-readme-stats/)
 
