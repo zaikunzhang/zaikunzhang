@@ -8,7 +8,7 @@ My research group at [Sun Yat-sen University](https://www.usnews.com/education/b
 
 - Current students: [LI Haitian](https://github.com/lht97), [HUANG Cunxin](https://github.com/OptHuang), [MA Xiangrong](https://github.com/MAXiangrongmath), [JIANG Zao](https://github.com/gradvu), [LIN Chengqing](https://github.com/inverno15), [CHEN Yu](https://github.com/chenyu76), [ZHU Huatao](https://github.com/thunderstorm-37).
 
-- Past students: [RAGONNEAU Tom](https://github.com/ragonneau).
+- Past students: [RAGONNEAU Tom](https://github.com/ragonneau) (PhD).
 
 [![Star History Chart](https://api.star-history.com/svg?repos=libprima/prima&type=Date)](https://star-history.com/#libprima/prima&Date)
 <p align="center"><strong>Thank you for supporting <a href="https://github.com/libprima/prima">PRIMA</a>.</strong></p>
