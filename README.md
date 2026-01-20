@@ -2,7 +2,7 @@ I am [ZHANG Zaikun](https://www.zhangzk.net), a Chinese applied mathematician wo
 
 In terms of software development, right now I am mainly working on [PRIMA](http://www.libprima.net).
 
-I am also a co-author of [COBYQA](http://www.cobyqa.com) and [PDFO](https://www.pdfo.net) (with [Dr. Tom M. RAGONNEAU](https://ragonneau.github.io)).
+I am also a co-author of [COBYQA](http://www.cobyqa.com) and [PDFO](https://www.pdfo.net) (with [Dr. RAGONNEAU Tom](https://ragonneau.github.io)).
 
 Current students: [LI Haitian](https://github.com/lht97), [HUANG Cunxin](https://github.com/OptHuang), [MA Xiangrong](https://github.com/MAXiangrongmath), [JIANG Zao](https://github.com/gradvu), [LIN Chengqing](https://github.com/inverno15), [CHEN Yu](https://github.com/chenyu76), [ZHU Huatao](https://github.com/thunderstorm-37).
 
