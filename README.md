@@ -4,7 +4,7 @@ In terms of software development, right now I am mainly working on [PRIMA](http:
 
 I am also a co-author of [COBYQA](http://www.cobyqa.com) and [PDFO](https://www.pdfo.net) (with [Dr. RAGONNEAU Tom](https://github.com/ragonneau)).
 
-My research group at [Sun Yat-sen University](https://www.usnews.com/education/best-global-universities/sun-yat-sen-university-506062):
+My [research group](https://github.com/equipez/) at [Sun Yat-sen University](https://www.usnews.com/education/best-global-universities/sun-yat-sen-university-506062):
 
 - Current students: [LI Haitian](https://github.com/lht97), [HUANG Cunxin](https://github.com/OptHuang), [MA Xiangrong](https://github.com/MAXiangrongmath), [JIANG Zao](https://github.com/gradvu), [LIN Chengqing](https://github.com/inverno15), [CHEN Yu](https://github.com/chenyu76), [ZHU Huatao](https://github.com/thunderstorm-37).
 
