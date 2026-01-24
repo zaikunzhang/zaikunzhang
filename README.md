@@ -1,4 +1,4 @@
-I am [ZHANG Zaikun](https://www.zhangzk.net), a Chinese applied mathematician working on optimization, and a professor at [Sun Yat-sen University](https://www.usnews.com/education/best-global-universities/sun-yat-sen-university-506062)
+I am [ZHANG Zaikun](https://www.zhangzk.net), a Chinese applied mathematician working on optimization, and a professor at [Sun Yat-sen University](https://www.usnews.com/education/best-global-universities/sun-yat-sen-university-506062).
 
 In terms of software development, right now I am mainly working on [PRIMA](http://www.libprima.net).
 
